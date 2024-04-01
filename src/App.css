@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+#id{
+  border: 9px solid rgb(255, 0, 0);
+  background-color: blue;
+ width: 800px;
+}
